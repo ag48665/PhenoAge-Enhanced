@@ -1,3 +1,8 @@
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Developing an Enhanced PhenoAge Model
 
 A machine learning framework for improving the original **PhenoAge** biological age model by integrating additional biomarkers and lifestyle variables.
